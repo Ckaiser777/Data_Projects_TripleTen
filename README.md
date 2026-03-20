@@ -1,2 +1,1 @@
-# Data_Projects_TripleTen
-Projects that I worked on while attending the Business Intelligence Analytics program at TripleTen
+Welcome to my analytics portfolio. This repository showcases the projects I completed during the TripleTen Business Intelligence Analytics program, highlighting how I apply SQL, Power BI, Tableau, Excel, and data storytelling to real business problems.
