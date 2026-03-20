@@ -1,1 +1,10 @@
-Welcome to my analytics portfolio. This repository showcases the projects I completed during the TripleTen Business Intelligence Analytics program, highlighting how I apply SQL, Power BI, Tableau, Excel, and data storytelling to real business problems.
+You can mirror that exact structure for your own portfolio repo — clean table, short descriptions, consistent formatting. Here’s a version tailored to your TripleTen BI projects, using the same layout and tone as the example you shared.
+---
+Data_projects_TripleTen
+Projects I worked on while attending the TripleTen Business Intelligence Analytics Bootcamp.
+Project number	Title	Description
+1	Manhattan Vacation Rental Market Insights	Analyzed Manhattan rental performance to identify revenue drivers, neighborhood trends, and pricing opportunities using Tableau.
+2	Data Visualization & Insights Portfolio Dashboard	Built a multi‑page Tableau Story showcasing KPI tracking, performance trends, and executive‑ready insights across multiple datasets.
+3	Superstore Returns Analysis	Investigated product return behavior, identified high‑risk categories, and built an executive dashboard highlighting operational risks and margin leakage.
+4	E‑Commerce Conversion & Retention Analysis	Built a conversion funnel, cohort retention analysis, and executive summary to uncover user behavior patterns and retention drivers.
+---
