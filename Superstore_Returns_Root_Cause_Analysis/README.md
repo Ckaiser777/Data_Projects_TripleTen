@@ -48,4 +48,4 @@ Tableau (Story, interactive dashboard, return-rate modeling)
 ---
 
 ## View This Project
-[Link to Tableau Public Story goes here]
+(https://public.tableau.com/views/Superstore-Understandingreturnpatternsacrosscategoriesstatesandtime/SalesVSReturns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
