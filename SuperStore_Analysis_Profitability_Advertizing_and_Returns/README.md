@@ -36,6 +36,10 @@ This Tableau project analyzes Superstore operations to identify profit centers, 
 ## Tools Used
 Tableau (multi-sheet dashboard, profitability analysis, KPI visualization)
 
+___
+## Visuals
+<img width="1709" height="1036" alt="image" src="https://github.com/user-attachments/assets/7544ff9f-826d-4455-aa82-aedbc83567d7" />
+
 ---
 
 ## View This Project
