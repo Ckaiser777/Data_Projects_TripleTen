@@ -47,5 +47,10 @@ Tableau (Story, interactive dashboard, return-rate modeling)
 
 ---
 
+## Visuals
+<img width="875" height="832" alt="image" src="https://github.com/user-attachments/assets/9ddea74a-dcb7-4316-915b-5eaee3d9a5ed" />
+
+---
+
 ## View This Project
 (https://public.tableau.com/views/Superstore-Understandingreturnpatternsacrosscategoriesstatesandtime/SalesVSReturns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
