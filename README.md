@@ -2,8 +2,9 @@
 Projects I worked on while attending the TripleTen Business Intelligence Analytics Bootcamp.
 
 | Project number | Title | Description |
-|----------------|--------|-------------|
-| 1 | [Manhattan Vacation Rental Market Insights](./Manhattan_Vacation_Rental_Market_Insights) | Analyzed Manhattan rental performance to identify revenue drivers, neighborhood trends, and pricing opportunities using Tableau. |
-| 2 | [Data Visualization & Insights Portfolio Dashboard](./Data_Visualization_Insights_Portfolio_Dashboard) | Built a multi-page Tableau Story showcasing KPI tracking, performance trends, and executive-ready insights across multiple datasets. |
-| 3 | [Superstore Returns Analysis](./Superstore_Returns_Analysis) | Investigated product return behavior, identified high-risk categories, and built an executive dashboard highlighting operational risks and margin leakage. |
-| 4 | [E-Commerce Conversion & Retention Analysis](./E_Commerce_Conversion_Retention_Analysis) | Built a conversion funnel, cohort retention analysis, and executive summary to uncover user behavior patterns and retention drivers. |
+| :-----------: | ----------- |----------- |
+| 1 | [Manhattan Vacation Rental Market Analysis](https://github.com/YourUsername/Data_projects_TripleTen/tree/main/Manhattan_Vacation_Rental_Market_Analysis) | Analyzed Manhattan rental performance to identify revenue drivers, neighborhood trends, and pricing opportunities using Tableau. |
+| 2 | [Advanced Spreadsheets Project](https://github.com/YourUsername/Data_projects_TripleTen/tree/main/Advanced_Spreadsheets_Project) | Analyzed business performance using advanced formulas, PivotTables, and scenario modeling to identify key operational insights. |
+| 3 | [SQL Business Case Analysis](https://github.com/YourUsername/Data_projects_TripleTen/tree/main/SQL_Business_Case_Analysis) | Wrote SQL queries to answer real business questions using joins, aggregations, CTEs, and window functions. |
+| 4 | [Data Visualization Project (Tableau)](https://github.com/YourUsername/Data_projects_TripleTen/tree/main/Data_Visualization_Project) | Built a multi‑page Tableau Story with KPIs, trend analysis, and executive‑ready insights across multiple business dimensions. |
+
