@@ -16,6 +16,8 @@ The project uses several relational tables, including:
 - **people** — employees and influencers  
 - **education** — employee degree information  
 - **fund** — investor fund activity  
+<img width="679" height="487" alt="image" src="https://github.com/user-attachments/assets/492c61d5-92b0-48d6-8ec3-f321596852e1" />
+
 
 ---
 
@@ -62,26 +64,69 @@ Do failed startups with only one funding round have employees with fewer degrees
 - Subqueries & nested logic  
 - Data type casting  
 - Pattern matching with LIKE  
-- CTE‑style logic (broken into separate scripts for clarity)
+- CTE‑style logic
 
 ---
 
 ## Folder Structure
-SQL_Startup_Trends_Analysis/
-│
+
+```SQL_Startup_Trends_Analysis/
 ├── README.md
 ├── queries/
-│     ├── 01_closed_companies.sql
-│     ├── 02_us_news_funding.sql
-│     ├── 03_cash_acquisitions_2011_2013.sql
-│     ├── 04_silver_twitter_handles.sql
-│     ├── 05_money_handles_lastname_k.sql
-│     ├── 06_country_funding_totals.sql
-│     ├── 07_funding_round_volatility.sql
-│     ├── 08_fund_activity_classification.sql
-│     ├── 09_avg_rounds_by_activity.sql
-│     ├── 10_employee_education_failed_startups.sql
+│   ├── 01_closed_companies.sql
+│   ├── 02_us_news_funding.sql
+│   ├── 03_cash_acquisitions_2011_2013.sql
+│   ├── 04_silver_twitter_handles.sql
+│   ├── 05_money_handles_lastname_k.sql
+│   ├── 06_country_funding_totals.sql
+│   ├── 07_funding_round_volatility.sql
+│   ├── 08_fund_activity_classification.sql
+│   ├── 09_avg_rounds_by_activity.sql
+│   ├── 10_employee_education_failed_startups.sql
+│
+├── screenshots/
+│   ├── task1_closed_companies.png
+│   ├── task6_country_funding.png
+│   ├── task7_volatility.png
+│   ├── task10_education.png
 │
 └── outputs/
-      ├── sample_results.csv (optional)
-      └── screenshots/ (optional)
+```
+## Sample Output (Screenshots)
+
+Below are example outputs from selected SQL tasks.
+
+### Task 1 — Closed Companies Count
+![Closed Companies](./screenshots/task1_closed_companies.png)
+
+### Task 6 — Country Funding Totals
+![Country Funding](./screenshots/task6_country_funding.png)
+
+### Task 7 — Funding Round Volatility
+![Funding Volatility](./screenshots/task7_volatility.png)
+
+### Task 10 — Employee Education Analysis
+![Education Analysis](./screenshots/task10_education.png)
+
+
+---
+
+## How to Use This Project
+1. Open the `queries/` folder  
+2. Run each SQL file in order (01 → 10)  
+3. Review outputs results to the `outputs/` folder  
+4. Use insights to support BI dashboards or reporting  
+
+---
+
+## Next Steps
+- Add visualizations in Tableau or Power BI  
+- Build a dashboard summarizing funding, acquisitions, and geographic trends  
+- Expand analysis with employee‑level segmentation or time‑series forecasting  
+
+---
+
+## Author
+**Connor Kaiser**  
+Business Intelligence Analyst  
+LinkedIn: *your link here*
