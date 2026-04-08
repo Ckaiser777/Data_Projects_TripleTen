@@ -1,3 +1,5 @@
+# WORK IN PROGRESS #
+
 # SQL Startup Trends Analysis
 
 ## Project Overview
