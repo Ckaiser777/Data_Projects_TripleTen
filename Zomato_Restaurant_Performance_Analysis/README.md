@@ -35,7 +35,7 @@ This project analyzes restaurant performance using Zomato data to understand how
 ---
 
 ## Dashboard Preview
-_Add your images here once uploaded to the folder:_
 
-```html
-<img src="./images/dashboard_overview.png" width="650">
+<img width="1708" height="1042" alt="image" src="https://github.com/user-attachments/assets/637d7fb9-10ea-4f21-9ec9-b62130f501a7" />
+
+<img width="1687" height="1041" alt="image" src="https://github.com/user-attachments/assets/433ab257-3f49-414c-a316-74bb602e98d2" />
