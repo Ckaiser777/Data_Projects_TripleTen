@@ -1,4 +1,18 @@
-# WORK IN PROGRESS #
+# Work In Progress #
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 # SQL Startup Trends Analysis
 
@@ -131,4 +145,4 @@ Below are example outputs from selected SQL tasks.
 ## Author
 **Connor Kaiser**  
 Business Intelligence Analyst  
-LinkedIn: *your link here*
+LinkedIn: https://www.linkedin.com/in/connor-kaiser/
